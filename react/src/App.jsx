@@ -9,11 +9,11 @@ let author = "Anand"
 function App() {
   
   return (
-    <>
-    <Header/>
-    <Content/>
-    <Footer/>
-    </>
+    <div className='App'>
+     <Header/>
+     <Content/>
+     <Footer/>
+    </div>
   )
 }
 
