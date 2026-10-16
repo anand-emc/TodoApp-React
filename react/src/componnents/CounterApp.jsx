@@ -8,12 +8,12 @@ let CounterApp = () => {
     console.log(useState(0));
     
     function Increase(){
-      count +=1
+      
       setCount(count+1)
     }
     
     function Decrease(){
-      count -=1
+    
       setCount(count-1)
     }
 
@@ -22,6 +22,13 @@ let CounterApp = () => {
         <h1>Counter - {count}</h1>
         <button  className='add-btn' onClick={Increase}>Increase</button>
         <button className='delete-btn' onClick={Decrease}>Decrease</button>
+        <button className='New'>Rewared</button>
+        { count>=10 ? (
+          <p>haii yes its work</p>
+        ) : (
+          <p>its works nicsly</p>
+        )
+        } 
     </div>
   )
 }

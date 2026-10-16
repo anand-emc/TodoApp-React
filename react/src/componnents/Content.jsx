@@ -1,5 +1,6 @@
 import React from 'react'
 import CounterApp from './CounterApp'
+import Shop from './Shop'
 
 let user = "Anand"
 
@@ -14,10 +15,7 @@ function clean(){
 const Content = () => {
   return (
     <main>
-      <h1>Main Content - {user}</h1>
-      <button className='add-btn' onClick={print}>click me!</button>
-      <button className='delete-btn'  onClick={clean}>Delete</button>
-      <CounterApp/>
+      <Shop/>
     </main>
   )
 }

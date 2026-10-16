@@ -75,6 +75,23 @@ body {
 }
 
 
+.New:hover {
+  background-color: #492a8f;
+  transform: translateY(-2px);
+}
+
+.New {
+  background-color: #29215a;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease; 
+}
+
 header {
   width: 100%;
   padding: 0 0.25em;
@@ -102,4 +119,13 @@ footer {
   color: aliceblue;
   display: grid;
   place-content: center;
+}
+
+section{
+  border: 1px solid #0f0c0c;
+  width: 50%;
+  height: 100px;
+  margin: auto;
+  text-align: center;
+  margin-top: 10px;
 }
