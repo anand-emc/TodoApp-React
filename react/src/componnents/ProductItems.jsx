@@ -1,19 +1,17 @@
 import React from 'react'
 import Shop from './Shop'
+import ProductDetails from './ProductDetails'
 
-const ProductItems = ({product}) => {
+const ProductItems = (product) => {
 
-    console.log(product)
+  console.log(product.name)
 
   return (
     <div>
+        <Shop/>
         <h1>Displayind Product Item</h1>
-        <section>
-            <h3>{product.name}</h3>
-            <p>{product.price}</p>
-            <p>{product.decription}</p>
-        </section>
-    </div>
+        <h3>{ product.name }</h3> 
+        </div>
   )
 }
 
