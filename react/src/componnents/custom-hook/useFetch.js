@@ -1,33 +1,31 @@
-import { useEffect } from "react"
+import { useEffect, useState } from "react";
 
-function useFetch(){
-    let [products,setProducts] = useState( [] )
-    let [error,setError] = useState( "" )
-    let [isLoading,setIsLoading] = useState(true)
+function useFetch(url) {
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
-    useEffect(()=>{
-        let fetchApi = async()=>{
-            try{
-               let respones = await fetch()
-
-               if(respones.ok){
-
-                   let data = await respones.json()
-                   setProducts(data)  
-               }
-               else{
-                   throw new Error ("Data Not Found")
-               }
-
-            }
-            catch(error){
-                   setError(error.message)
-            }
-            finally{
-                   setIsLoading(false)
-            }
+  useEffect(() => {
+    fetch(url)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("Failed to fetch data");
         }
-    },[])
+        return response.json();
+      })
+      .then((result) => {
+        setData(result);
+        setError(null);
+      })
+      .catch((err) => {
+        setError(err.message);
+      })
+      .finally(() => {
+        setLoading(false);
+      });
+  }, [url]);
+
+  return { data, loading, error };
 }
 
-export default useFetch
+export default useFetch;

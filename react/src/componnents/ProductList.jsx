@@ -2,11 +2,11 @@ import React, { useEffect, useState } from 'react'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import {Commet} from 'react-loading-indicators'
-
+import useFetch from './custom-hook/useFetch';
 
 const ProductList = () => {
 
-  let [products,setProducts] = useState( [] )
+ /* let [products,setProducts] = useState( [] )
   let [error,setError] = useState( "" )
   let [isLoading,setIsLoading] = useState(true)
 
@@ -27,7 +27,9 @@ const ProductList = () => {
     .finally( ()=>{
       setIsLoading ( false )
     } )
-  },[])
+  },[]) */
+
+  let { products,error,isLoading } = useFetch("https://fakestoreapi.com/products")
 
   if(isLoading){
       return  <div>
@@ -39,10 +41,10 @@ const ProductList = () => {
   return (
     <div>
       <h1>Product List</h1>
-      {products.length !== 0 && (
+       {products.length !== 0 && (
       <section className='products'>
         {
-          products.map(product=>(
+        products.map(product=>(
           <Card key={product.id} style={{ width: '18rem' }} className='product'>
             <center>
             <Card.Img variant="top" src= "https://placehold.co/600x400?text=Eco-Friendly+Cycling+Helmet" style={{width: "9rem",height:"12rem",}} />
