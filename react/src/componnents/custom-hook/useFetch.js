@@ -1,4 +1,6 @@
+
 import { useEffect, useState } from "react";
+import axios from "axios";
 
 function useFetch(url) {
   const [data, setData] = useState(null);
@@ -6,23 +8,22 @@ function useFetch(url) {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch(url)
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error("Failed to fetch data");
-        }
-        return response.json();
-      })
-      .then((result) => {
-        setData(result);
+    const fetchApi = async () => {
+      try {
+        setLoading(true);
         setError(null);
-      })
-      .catch((err) => {
+
+        const response = await axios.get(url);
+
+        setData(response.data);
+      } catch (err) {
         setError(err.message);
-      })
-      .finally(() => {
+      } finally {
         setLoading(false);
-      });
+      }
+    };
+
+    fetchApi();
   }, [url]);
 
   return { data, loading, error };
