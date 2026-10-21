@@ -11,6 +11,7 @@ import ProductDetails from './componnents/ProductDetails';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import Navbar from './componnents/NavBar';
 import { NotFound } from './componnents/NotFound';
+import NewProduct from './componnents/NewProduct';
 
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
                <Route path='delails' element={ <ProductDetails/> }/>
             </Route>
             <Route path='/Signup' element={ <Signup/> }/>
+            <Route path='/NewProduct' element = {<NewProduct/>}/>
             <Route path='*' element={ <NotFound/> }/>
           </Routes>
         </Router>
