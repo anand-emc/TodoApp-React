@@ -1,1504 +1,1521 @@
 {
-    "products" : [
-  {
-    "id": 1,
-    "title": "Portable Art Supplies Kit",
-    "description": "Portable Art Supplies Kit — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "toys",
-    "price": 186.88,
-    "discount": 14,
-    "rating": 4.2,
-    "stock": 149,
-    "brand": "Nienow-Hirthe",
-    "sku": "Q10PAHGJ",
-    "images": [
-      "https://placehold.co/600x400?text=Portable+Art+Supplies+Kit"
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Eco-Friendly Cycling Helmet",
-    "description": "Eco-Friendly Cycling Helmet — Built to last, with a minimalist design that suits any style.",
-    "category": "sports",
-    "price": 260.65,
-    "discount": 8,
-    "rating": 2.7,
-    "stock": 139,
-    "brand": "Schuppe, Bailey and Dare",
-    "sku": "YJ6WK1VE",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Cycling+Helmet"
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Compact Picture Frame",
-    "description": "Compact Picture Frame — Built to last, with a minimalist design that suits any style.",
-    "category": "home",
-    "price": 378.58,
-    "discount": 16,
-    "rating": 2.6,
-    "stock": 102,
-    "brand": "Bechtelar, Green and Labadie",
-    "sku": "PDVSCU2T",
-    "images": [
-      "https://placehold.co/600x400?text=Compact+Picture+Frame"
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Eco-Friendly Smart Bulb",
-    "description": "Eco-Friendly Smart Bulb — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "electronics",
-    "price": 101.01,
-    "discount": 34,
-    "rating": 3,
-    "stock": 124,
-    "brand": "VonRueden, Stoltenberg and Greenfelder",
-    "sku": "DRXFXRS0",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Smart+Bulb"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Wireless Body Lotion",
-    "description": "Wireless Body Lotion — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "beauty",
-    "price": 703.77,
-    "discount": 5,
-    "rating": 4,
-    "stock": 207,
-    "brand": "Kulas, O'Keefe and Veum",
-    "sku": "ARTA6WDT",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Body+Lotion"
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Premium Wool Scarf",
-    "description": "Premium Wool Scarf — A customer favorite, combining great value with reliable quality.",
-    "category": "clothing",
-    "price": 869.89,
-    "discount": 20,
-    "rating": 3.4,
-    "stock": 108,
-    "brand": "Considine Inc",
-    "sku": "M8MR42A5",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Wool+Scarf"
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Smart Almond Butter",
-    "description": "Smart Almond Butter — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "groceries",
-    "price": 552.19,
-    "discount": 9,
-    "rating": 3,
-    "stock": 45,
-    "brand": "Murphy, Spencer and Jast",
-    "sku": "AN9RUEPR",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Almond+Butter"
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Ultra-Slim Gym Bag",
-    "description": "Ultra-Slim Gym Bag — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "sports",
-    "price": 774.54,
-    "discount": 7,
-    "rating": 3.2,
-    "stock": 160,
-    "brand": "Balistreri Group",
-    "sku": "L3ZMMUH8",
-    "images": [
-      "https://placehold.co/600x400?text=Ultra-Slim+Gym+Bag"
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Heavy-Duty Art Supplies Kit",
-    "description": "Heavy-Duty Art Supplies Kit — Built to last, with a minimalist design that suits any style.",
-    "category": "toys",
-    "price": 777.05,
-    "discount": 3,
-    "rating": 2.9,
-    "stock": 241,
-    "brand": "Hermiston PLC",
-    "sku": "BBP9D11A",
-    "images": [
-      "https://placehold.co/600x400?text=Heavy-Duty+Art+Supplies+Kit"
-    ]
-  },
-  {
-    "id": 10,
-    "title": "Smart Poetry Collection",
-    "description": "Smart Poetry Collection — Built to last, with a minimalist design that suits any style.",
-    "category": "books",
-    "price": 216.68,
-    "discount": 37,
-    "rating": 4.9,
-    "stock": 3,
-    "brand": "Schultz Ltd",
-    "sku": "2MRHNNTG",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Poetry+Collection"
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Classic Photography Guide",
-    "description": "Classic Photography Guide — Built to last, with a minimalist design that suits any style.",
-    "category": "books",
-    "price": 675.5,
-    "discount": 14,
-    "rating": 5,
-    "stock": 137,
-    "brand": "Lehner-Abernathy",
-    "sku": "CYMQ95KU",
-    "images": [
-      "https://placehold.co/600x400?text=Classic+Photography+Guide"
-    ]
-  },
-  {
-    "id": 12,
-    "title": "Wireless Photography Guide",
-    "description": "Wireless Photography Guide — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "books",
-    "price": 287.55,
-    "discount": 8,
-    "rating": 3.7,
-    "stock": 142,
-    "brand": "Hegmann Inc",
-    "sku": "D2LTKRRE",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Photography+Guide"
-    ]
-  },
-  {
-    "id": 13,
-    "title": "Handcrafted Dark Chocolate Bar",
-    "description": "Handcrafted Dark Chocolate Bar — A customer favorite, combining great value with reliable quality.",
-    "category": "groceries",
-    "price": 742.4,
-    "discount": 9,
-    "rating": 3.3,
-    "stock": 182,
-    "brand": "McKenzie, Grimes and Kiehn",
-    "sku": "KL10EEME",
-    "images": [
-      "https://placehold.co/600x400?text=Handcrafted+Dark+Chocolate+Bar"
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Premium Remote Control Car",
-    "description": "Premium Remote Control Car — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "toys",
-    "price": 339.91,
-    "discount": 6,
-    "rating": 4,
-    "stock": 173,
-    "brand": "Goldner-Buckridge",
-    "sku": "VHKBNBVF",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Remote+Control+Car"
-    ]
-  },
-  {
-    "id": 15,
-    "title": "Portable Olive Oil",
-    "description": "Portable Olive Oil — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "groceries",
-    "price": 73.73,
-    "discount": 32,
-    "rating": 3.9,
-    "stock": 67,
-    "brand": "Lowe-Davis",
-    "sku": "GYC0PRGB",
-    "images": [
-      "https://placehold.co/600x400?text=Portable+Olive+Oil"
-    ]
-  },
-  {
-    "id": 16,
-    "title": "Ultra-Slim Atlas",
-    "description": "Ultra-Slim Atlas — A customer favorite, combining great value with reliable quality.",
-    "category": "books",
-    "price": 104.88,
-    "discount": 2,
-    "rating": 2.9,
-    "stock": 173,
-    "brand": "Marvin-Kozey",
-    "sku": "QOALSXCV",
-    "images": [
-      "https://placehold.co/600x400?text=Ultra-Slim+Atlas"
-    ]
-  },
-  {
-    "id": 17,
-    "title": "Ultra-Slim Nail Care Kit",
-    "description": "Ultra-Slim Nail Care Kit — Thoughtfully made with premium materials and attention to detail.",
-    "category": "beauty",
-    "price": 129.32,
-    "discount": 28,
-    "rating": 4.4,
-    "stock": 114,
-    "brand": "Bode-Mosciski",
-    "sku": "RF6A4MMG",
-    "images": [
-      "https://placehold.co/600x400?text=Ultra-Slim+Nail+Care+Kit"
-    ]
-  },
-  {
-    "id": 18,
-    "title": "Smart Olive Oil",
-    "description": "Smart Olive Oil — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "groceries",
-    "price": 224.69,
-    "discount": 30,
-    "rating": 4.2,
-    "stock": 120,
-    "brand": "Rodriguez Group",
-    "sku": "PYEQNSYC",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Olive+Oil"
-    ]
-  },
-  {
-    "id": 19,
-    "title": "Wireless Power Bank",
-    "description": "Wireless Power Bank — Built to last, with a minimalist design that suits any style.",
-    "category": "electronics",
-    "price": 757.85,
-    "discount": 21,
-    "rating": 4.2,
-    "stock": 133,
-    "brand": "Hauck, Wilkinson and Block",
-    "sku": "GYIBSIN2",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Power+Bank"
-    ]
-  },
-  {
-    "id": 20,
-    "title": "Compact Sketchbook",
-    "description": "Compact Sketchbook — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "books",
-    "price": 46.99,
-    "discount": 12,
-    "rating": 4.7,
-    "stock": 193,
-    "brand": "Becker-Ritchie",
-    "sku": "DGASYUDD",
-    "images": [
-      "https://placehold.co/600x400?text=Compact+Sketchbook"
-    ]
-  },
-  {
-    "id": 21,
-    "title": "Premium Tablet Stand",
-    "description": "Premium Tablet Stand — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "electronics",
-    "price": 811.17,
-    "discount": 2,
-    "rating": 3.7,
-    "stock": 177,
-    "brand": "Purdy LLC",
-    "sku": "IDAV0RQJ",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Tablet+Stand"
-    ]
-  },
-  {
-    "id": 22,
-    "title": "Compact Area Rug",
-    "description": "Compact Area Rug — Thoughtfully made with premium materials and attention to detail.",
-    "category": "home",
-    "price": 191.85,
-    "discount": 34,
-    "rating": 3,
-    "stock": 148,
-    "brand": "Stamm, Gislason and Carter",
-    "sku": "UGZEKOYR",
-    "images": [
-      "https://placehold.co/600x400?text=Compact+Area+Rug"
-    ]
-  },
-  {
-    "id": 23,
-    "title": "Classic Running Shoes",
-    "description": "Classic Running Shoes — Thoughtfully made with premium materials and attention to detail.",
-    "category": "clothing",
-    "price": 152.81,
-    "discount": 23,
-    "rating": 3.7,
-    "stock": 55,
-    "brand": "White, Halvorson and Harris",
-    "sku": "3F1OTSDM",
-    "images": [
-      "https://placehold.co/600x400?text=Classic+Running+Shoes"
-    ]
-  },
-  {
-    "id": 24,
-    "title": "Classic Baseball Cap",
-    "description": "Classic Baseball Cap — A customer favorite, combining great value with reliable quality.",
-    "category": "clothing",
-    "price": 826.86,
-    "discount": 25,
-    "rating": 4.2,
-    "stock": 199,
-    "brand": "Treutel Inc",
-    "sku": "JJ8LBDSJ",
-    "images": [
-      "https://placehold.co/600x400?text=Classic+Baseball+Cap"
-    ]
-  },
-  {
-    "id": 25,
-    "title": "Eco-Friendly Poetry Collection",
-    "description": "Eco-Friendly Poetry Collection — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "books",
-    "price": 576.54,
-    "discount": 5,
-    "rating": 4.9,
-    "stock": 121,
-    "brand": "Waters-Pfannerstill",
-    "sku": "M7ZCBQZP",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Poetry+Collection"
-    ]
-  },
-  {
-    "id": 26,
-    "title": "Eco-Friendly Picture Frame",
-    "description": "Eco-Friendly Picture Frame — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "home",
-    "price": 454.18,
-    "discount": 0,
-    "rating": 2.5,
-    "stock": 96,
-    "brand": "Zulauf, Macejkovic and Zulauf",
-    "sku": "W8QKIBKW",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Picture+Frame"
-    ]
-  },
-  {
-    "id": 27,
-    "title": "Eco-Friendly Noise-Cancelling Headphones",
-    "description": "Eco-Friendly Noise-Cancelling Headphones — A customer favorite, combining great value with reliable quality.",
-    "category": "electronics",
-    "price": 753.87,
-    "discount": 1,
-    "rating": 3.1,
-    "stock": 114,
-    "brand": "Parker, Koelpin and Emard",
-    "sku": "POPWAYJ1",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Noise-Cancelling+Headphones"
-    ]
-  },
-  {
-    "id": 28,
-    "title": "Heavy-Duty Granola Mix",
-    "description": "Heavy-Duty Granola Mix — A customer favorite, combining great value with reliable quality.",
-    "category": "groceries",
-    "price": 101.72,
-    "discount": 16,
-    "rating": 2.5,
-    "stock": 54,
-    "brand": "Grant LLC",
-    "sku": "PIZWWEZB",
-    "images": [
-      "https://placehold.co/600x400?text=Heavy-Duty+Granola+Mix"
-    ]
-  },
-  {
-    "id": 29,
-    "title": "Heavy-Duty Hooded Sweatshirt",
-    "description": "Heavy-Duty Hooded Sweatshirt — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "clothing",
-    "price": 6.65,
-    "discount": 19,
-    "rating": 3.6,
-    "stock": 159,
-    "brand": "Block, Yundt and Schinner",
-    "sku": "G5YZDCXP",
-    "images": [
-      "https://placehold.co/600x400?text=Heavy-Duty+Hooded+Sweatshirt"
-    ]
-  },
-  {
-    "id": 30,
-    "title": "Wireless Makeup Brush Set",
-    "description": "Wireless Makeup Brush Set — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "beauty",
-    "price": 598.01,
-    "discount": 10,
-    "rating": 3,
-    "stock": 122,
-    "brand": "Rice-Beatty",
-    "sku": "QNDP8XVC",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Makeup+Brush+Set"
-    ]
-  },
-  {
-    "id": 31,
-    "title": "Portable Smart Bulb",
-    "description": "Portable Smart Bulb — Thoughtfully made with premium materials and attention to detail.",
-    "category": "electronics",
-    "price": 314.39,
-    "discount": 6,
-    "rating": 4.2,
-    "stock": 61,
-    "brand": "Keeling, Rosenbaum and Lebsack",
-    "sku": "ZTGJZVOD",
-    "images": [
-      "https://placehold.co/600x400?text=Portable+Smart+Bulb"
-    ]
-  },
-  {
-    "id": 32,
-    "title": "Smart Almond Butter",
-    "description": "Smart Almond Butter — Thoughtfully made with premium materials and attention to detail.",
-    "category": "groceries",
-    "price": 616.4,
-    "discount": 38,
-    "rating": 3.5,
-    "stock": 87,
-    "brand": "Kshlerin-Eichmann",
-    "sku": "GMVAKWPM",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Almond+Butter"
-    ]
-  },
-  {
-    "id": 33,
-    "title": "Portable Cookbook",
-    "description": "Portable Cookbook — A customer favorite, combining great value with reliable quality.",
-    "category": "books",
-    "price": 939.87,
-    "discount": 24,
-    "rating": 3.2,
-    "stock": 20,
-    "brand": "Walker Inc",
-    "sku": "49QQ32LS",
-    "images": [
-      "https://placehold.co/600x400?text=Portable+Cookbook"
-    ]
-  },
-  {
-    "id": 34,
-    "title": "Handcrafted Bluetooth Speaker",
-    "description": "Handcrafted Bluetooth Speaker — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "electronics",
-    "price": 254.93,
-    "discount": 33,
-    "rating": 2.6,
-    "stock": 58,
-    "brand": "Ortiz-Ratke",
-    "sku": "AHTIPQZI",
-    "images": [
-      "https://placehold.co/600x400?text=Handcrafted+Bluetooth+Speaker"
-    ]
-  },
-  {
-    "id": 35,
-    "title": "Handcrafted Body Lotion",
-    "description": "Handcrafted Body Lotion — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "beauty",
-    "price": 231.08,
-    "discount": 27,
-    "rating": 2.8,
-    "stock": 18,
-    "brand": "Schulist-Schuppe",
-    "sku": "ONSBHANO",
-    "images": [
-      "https://placehold.co/600x400?text=Handcrafted+Body+Lotion"
-    ]
-  },
-  {
-    "id": 36,
-    "title": "Smart Yoga Mat",
-    "description": "Smart Yoga Mat — A customer favorite, combining great value with reliable quality.",
-    "category": "sports",
-    "price": 655.29,
-    "discount": 6,
-    "rating": 3.5,
-    "stock": 44,
-    "brand": "Predovic and Sons",
-    "sku": "IPG5ZK1T",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Yoga+Mat"
-    ]
-  },
-  {
-    "id": 37,
-    "title": "Premium Storage Basket",
-    "description": "Premium Storage Basket — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "home",
-    "price": 539.7,
-    "discount": 32,
-    "rating": 3.8,
-    "stock": 65,
-    "brand": "Feeney-Leannon",
-    "sku": "NLPR22SB",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Storage+Basket"
-    ]
-  },
-  {
-    "id": 38,
-    "title": "Wireless Wall Clock",
-    "description": "Wireless Wall Clock — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "home",
-    "price": 258.32,
-    "discount": 20,
-    "rating": 3,
-    "stock": 16,
-    "brand": "Goyette Group",
-    "sku": "ABE11HNZ",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Wall+Clock"
-    ]
-  },
-  {
-    "id": 39,
-    "title": "Eco-Friendly Rain Jacket",
-    "description": "Eco-Friendly Rain Jacket — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "clothing",
-    "price": 699.73,
-    "discount": 38,
-    "rating": 4.3,
-    "stock": 204,
-    "brand": "Hoeger Group",
-    "sku": "U5XSRXVI",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Rain+Jacket"
-    ]
-  },
-  {
-    "id": 40,
-    "title": "Ultra-Slim Wall Clock",
-    "description": "Ultra-Slim Wall Clock — Built to last, with a minimalist design that suits any style.",
-    "category": "home",
-    "price": 828.74,
-    "discount": 7,
-    "rating": 2.6,
-    "stock": 53,
-    "brand": "Schinner Inc",
-    "sku": "GWDKRWLE",
-    "images": [
-      "https://placehold.co/600x400?text=Ultra-Slim+Wall+Clock"
-    ]
-  },
-  {
-    "id": 41,
-    "title": "Compact Puzzle Cube",
-    "description": "Compact Puzzle Cube — A customer favorite, combining great value with reliable quality.",
-    "category": "toys",
-    "price": 929.54,
-    "discount": 21,
-    "rating": 3.2,
-    "stock": 149,
-    "brand": "Okuneva, Stokes and Stamm",
-    "sku": "FXAULHHT",
-    "images": [
-      "https://placehold.co/600x400?text=Compact+Puzzle+Cube"
-    ]
-  },
-  {
-    "id": 42,
-    "title": "Compact Power Bank",
-    "description": "Compact Power Bank — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "electronics",
-    "price": 509.91,
-    "discount": 27,
-    "rating": 4,
-    "stock": 24,
-    "brand": "King PLC",
-    "sku": "QN5OHG3I",
-    "images": [
-      "https://placehold.co/600x400?text=Compact+Power+Bank"
-    ]
-  },
-  {
-    "id": 43,
-    "title": "Premium Noise-Cancelling Headphones",
-    "description": "Premium Noise-Cancelling Headphones — Thoughtfully made with premium materials and attention to detail.",
-    "category": "electronics",
-    "price": 837.75,
-    "discount": 4,
-    "rating": 4,
-    "stock": 69,
-    "brand": "Yundt Ltd",
-    "sku": "TMETGPOG",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Noise-Cancelling+Headphones"
-    ]
-  },
-  {
-    "id": 44,
-    "title": "Ultra-Slim Running Shoes",
-    "description": "Ultra-Slim Running Shoes — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "clothing",
-    "price": 747.84,
-    "discount": 23,
-    "rating": 4.4,
-    "stock": 180,
-    "brand": "Pacocha, Morissette and Braun",
-    "sku": "BSJG9GNF",
-    "images": [
-      "https://placehold.co/600x400?text=Ultra-Slim+Running+Shoes"
-    ]
-  },
-  {
-    "id": 45,
-    "title": "Premium Sparkling Water Pack",
-    "description": "Premium Sparkling Water Pack — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "groceries",
-    "price": 744.25,
-    "discount": 33,
-    "rating": 3.9,
-    "stock": 190,
-    "brand": "Stehr-McLaughlin",
-    "sku": "UJZPWPA1",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Sparkling+Water+Pack"
-    ]
-  },
-  {
-    "id": 46,
-    "title": "Premium Yoga Mat",
-    "description": "Premium Yoga Mat — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "sports",
-    "price": 927.3,
-    "discount": 15,
-    "rating": 4.8,
-    "stock": 238,
-    "brand": "Sanford-Jast",
-    "sku": "YFXYHL4E",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Yoga+Mat"
-    ]
-  },
-  {
-    "id": 47,
-    "title": "Smart Olive Oil",
-    "description": "Smart Olive Oil — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "groceries",
-    "price": 544.14,
-    "discount": 6,
-    "rating": 4.8,
-    "stock": 217,
-    "brand": "Mante-Walter",
-    "sku": "QWFQNAWU",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Olive+Oil"
-    ]
-  },
-  {
-    "id": 48,
-    "title": "Handcrafted Atlas",
-    "description": "Handcrafted Atlas — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "books",
-    "price": 646.74,
-    "discount": 26,
-    "rating": 2.9,
-    "stock": 43,
-    "brand": "Hackett, Schoen and Kuphal",
-    "sku": "ILM3TDIS",
-    "images": [
-      "https://placehold.co/600x400?text=Handcrafted+Atlas"
-    ]
-  },
-  {
-    "id": 49,
-    "title": "Handcrafted Travel Journal",
-    "description": "Handcrafted Travel Journal — Built to last, with a minimalist design that suits any style.",
-    "category": "books",
-    "price": 702.22,
-    "discount": 15,
-    "rating": 4.9,
-    "stock": 49,
-    "brand": "Legros Inc",
-    "sku": "HNBILZOU",
-    "images": [
-      "https://placehold.co/600x400?text=Handcrafted+Travel+Journal"
-    ]
-  },
-  {
-    "id": 50,
-    "title": "Smart Storage Basket",
-    "description": "Smart Storage Basket — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "home",
-    "price": 843.45,
-    "discount": 2,
-    "rating": 3.4,
-    "stock": 244,
-    "brand": "Monahan, Johnston and Stanton",
-    "sku": "TVU30GUD",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Storage+Basket"
-    ]
-  },
-  {
-    "id": 51,
-    "title": "Wireless Baseball Cap",
-    "description": "Wireless Baseball Cap — A customer favorite, combining great value with reliable quality.",
-    "category": "clothing",
-    "price": 372.36,
-    "discount": 13,
-    "rating": 2.8,
-    "stock": 63,
-    "brand": "Zemlak, Heller and Kunze",
-    "sku": "FDMUOTQ5",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Baseball+Cap"
-    ]
-  },
-  {
-    "id": 52,
-    "title": "Ultra-Slim Denim Jacket",
-    "description": "Ultra-Slim Denim Jacket — Thoughtfully made with premium materials and attention to detail.",
-    "category": "clothing",
-    "price": 154.8,
-    "discount": 38,
-    "rating": 3.6,
-    "stock": 202,
-    "brand": "Rodriguez-Upton",
-    "sku": "G56JJSO9",
-    "images": [
-      "https://placehold.co/600x400?text=Ultra-Slim+Denim+Jacket"
-    ]
-  },
-  {
-    "id": 53,
-    "title": "Eco-Friendly Rain Jacket",
-    "description": "Eco-Friendly Rain Jacket — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "clothing",
-    "price": 641.56,
-    "discount": 2,
-    "rating": 4,
-    "stock": 102,
-    "brand": "Batz and Sons",
-    "sku": "FALKT8K2",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Rain+Jacket"
-    ]
-  },
-  {
-    "id": 54,
-    "title": "Handcrafted Smart Bulb",
-    "description": "Handcrafted Smart Bulb — A customer favorite, combining great value with reliable quality.",
-    "category": "electronics",
-    "price": 958.84,
-    "discount": 18,
-    "rating": 2.7,
-    "stock": 81,
-    "brand": "Crooks-Dietrich",
-    "sku": "OTJQLPFU",
-    "images": [
-      "https://placehold.co/600x400?text=Handcrafted+Smart+Bulb"
-    ]
-  },
-  {
-    "id": 55,
-    "title": "Smart Baseball Cap",
-    "description": "Smart Baseball Cap — Thoughtfully made with premium materials and attention to detail.",
-    "category": "clothing",
-    "price": 894.33,
-    "discount": 36,
-    "rating": 3.9,
-    "stock": 243,
-    "brand": "Jacobs, West and Bashirian",
-    "sku": "NLEZTBIE",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Baseball+Cap"
-    ]
-  },
-  {
-    "id": 56,
-    "title": "Premium Vitamin C Serum",
-    "description": "Premium Vitamin C Serum — Thoughtfully made with premium materials and attention to detail.",
-    "category": "beauty",
-    "price": 74.56,
-    "discount": 28,
-    "rating": 4.8,
-    "stock": 219,
-    "brand": "Reynolds-Langosh",
-    "sku": "2MX9G101",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Vitamin+C+Serum"
-    ]
-  },
-  {
-    "id": 57,
-    "title": "Premium Cookbook",
-    "description": "Premium Cookbook — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "books",
-    "price": 543.22,
-    "discount": 30,
-    "rating": 3.4,
-    "stock": 88,
-    "brand": "Stokes, Erdman and Weissnat",
-    "sku": "V4OAVUE9",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Cookbook"
-    ]
-  },
-  {
-    "id": 58,
-    "title": "Compact Gym Bag",
-    "description": "Compact Gym Bag — A customer favorite, combining great value with reliable quality.",
-    "category": "sports",
-    "price": 174.65,
-    "discount": 39,
-    "rating": 4.3,
-    "stock": 40,
-    "brand": "Daugherty LLC",
-    "sku": "4J6GGR5P",
-    "images": [
-      "https://placehold.co/600x400?text=Compact+Gym+Bag"
-    ]
-  },
-  {
-    "id": 59,
-    "title": "Premium Dark Chocolate Bar",
-    "description": "Premium Dark Chocolate Bar — A customer favorite, combining great value with reliable quality.",
-    "category": "groceries",
-    "price": 995.98,
-    "discount": 37,
-    "rating": 4,
-    "stock": 14,
-    "brand": "Denesik Inc",
-    "sku": "WJKVLXVH",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Dark+Chocolate+Bar"
-    ]
-  },
-  {
-    "id": 60,
-    "title": "Premium Nail Care Kit",
-    "description": "Premium Nail Care Kit — Thoughtfully made with premium materials and attention to detail.",
-    "category": "beauty",
-    "price": 19.05,
-    "discount": 8,
-    "rating": 4,
-    "stock": 94,
-    "brand": "Lang-Hudson",
-    "sku": "IYDLD9Z2",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Nail+Care+Kit"
-    ]
-  },
-  {
-    "id": 61,
-    "title": "Smart Picture Frame",
-    "description": "Smart Picture Frame — Built to last, with a minimalist design that suits any style.",
-    "category": "home",
-    "price": 153.97,
-    "discount": 6,
-    "rating": 2.9,
-    "stock": 246,
-    "brand": "Reynolds-Dach",
-    "sku": "CCJANUR0",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Picture+Frame"
-    ]
-  },
-  {
-    "id": 62,
-    "title": "Wireless Almond Butter",
-    "description": "Wireless Almond Butter — Built to last, with a minimalist design that suits any style.",
-    "category": "groceries",
-    "price": 482.57,
-    "discount": 8,
-    "rating": 3.3,
-    "stock": 0,
-    "brand": "Crona-McCullough",
-    "sku": "Q5B6D9AH",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Almond+Butter"
-    ]
-  },
-  {
-    "id": 63,
-    "title": "Ultra-Slim Hooded Sweatshirt",
-    "description": "Ultra-Slim Hooded Sweatshirt — Thoughtfully made with premium materials and attention to detail.",
-    "category": "clothing",
-    "price": 948.6,
-    "discount": 19,
-    "rating": 3.5,
-    "stock": 0,
-    "brand": "Schiller, Herzog and Armstrong",
-    "sku": "P5SPANVA",
-    "images": [
-      "https://placehold.co/600x400?text=Ultra-Slim+Hooded+Sweatshirt"
-    ]
-  },
-  {
-    "id": 64,
-    "title": "Portable Almond Butter",
-    "description": "Portable Almond Butter — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "groceries",
-    "price": 751.82,
-    "discount": 7,
-    "rating": 4.7,
-    "stock": 116,
-    "brand": "Gutmann and Sons",
-    "sku": "G2FMX0BL",
-    "images": [
-      "https://placehold.co/600x400?text=Portable+Almond+Butter"
-    ]
-  },
-  {
-    "id": 65,
-    "title": "Eco-Friendly Hair Dryer",
-    "description": "Eco-Friendly Hair Dryer — Thoughtfully made with premium materials and attention to detail.",
-    "category": "beauty",
-    "price": 153.4,
-    "discount": 2,
-    "rating": 4,
-    "stock": 162,
-    "brand": "Von-Leuschke",
-    "sku": "5RUGYDVR",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Hair+Dryer"
-    ]
-  },
-  {
-    "id": 66,
-    "title": "Portable Running Shoes",
-    "description": "Portable Running Shoes — Thoughtfully made with premium materials and attention to detail.",
-    "category": "clothing",
-    "price": 79.94,
-    "discount": 18,
-    "rating": 2.8,
-    "stock": 197,
-    "brand": "Kulas Ltd",
-    "sku": "NJKRLS0J",
-    "images": [
-      "https://placehold.co/600x400?text=Portable+Running+Shoes"
-    ]
-  },
-  {
-    "id": 67,
-    "title": "Heavy-Duty Sketchbook",
-    "description": "Heavy-Duty Sketchbook — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "books",
-    "price": 339.9,
-    "discount": 11,
-    "rating": 4.3,
-    "stock": 36,
-    "brand": "O'Kon-Erdman",
-    "sku": "S82DFSUM",
-    "images": [
-      "https://placehold.co/600x400?text=Heavy-Duty+Sketchbook"
-    ]
-  },
-  {
-    "id": 68,
-    "title": "Heavy-Duty Leather Belt",
-    "description": "Heavy-Duty Leather Belt — A customer favorite, combining great value with reliable quality.",
-    "category": "clothing",
-    "price": 376.31,
-    "discount": 5,
-    "rating": 4.6,
-    "stock": 22,
-    "brand": "Roberts Inc",
-    "sku": "OM2ZJQYT",
-    "images": [
-      "https://placehold.co/600x400?text=Heavy-Duty+Leather+Belt"
-    ]
-  },
-  {
-    "id": 69,
-    "title": "Eco-Friendly Scented Candle",
-    "description": "Eco-Friendly Scented Candle — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "home",
-    "price": 715.77,
-    "discount": 15,
-    "rating": 2.9,
-    "stock": 41,
-    "brand": "Buckridge, Ankunding and Tremblay",
-    "sku": "R4GQQU3P",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Scented+Candle"
-    ]
-  },
-  {
-    "id": 70,
-    "title": "Eco-Friendly Power Bank",
-    "description": "Eco-Friendly Power Bank — A customer favorite, combining great value with reliable quality.",
-    "category": "electronics",
-    "price": 825.8,
-    "discount": 39,
-    "rating": 3.4,
-    "stock": 57,
-    "brand": "Abernathy PLC",
-    "sku": "KB0IHJZI",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Power+Bank"
-    ]
-  },
-  {
-    "id": 71,
-    "title": "Heavy-Duty Travel Journal",
-    "description": "Heavy-Duty Travel Journal — Built to last, with a minimalist design that suits any style.",
-    "category": "books",
-    "price": 91.28,
-    "discount": 10,
-    "rating": 4,
-    "stock": 32,
-    "brand": "Hegmann-Botsford",
-    "sku": "5L1TRDVW",
-    "images": [
-      "https://placehold.co/600x400?text=Heavy-Duty+Travel+Journal"
-    ]
-  },
-  {
-    "id": 72,
-    "title": "Smart Model Train",
-    "description": "Smart Model Train — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "toys",
-    "price": 526.25,
-    "discount": 10,
-    "rating": 3.7,
-    "stock": 39,
-    "brand": "Toy Inc",
-    "sku": "Y7GPKBZA",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Model+Train"
-    ]
-  },
-  {
-    "id": 73,
-    "title": "Wireless Tennis Racket",
-    "description": "Wireless Tennis Racket — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "sports",
-    "price": 363.18,
-    "discount": 29,
-    "rating": 2.7,
-    "stock": 241,
-    "brand": "Hand-Grimes",
-    "sku": "2DETJFTG",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Tennis+Racket"
-    ]
-  },
-  {
-    "id": 74,
-    "title": "Classic Storage Basket",
-    "description": "Classic Storage Basket — Built to last, with a minimalist design that suits any style.",
-    "category": "home",
-    "price": 867.34,
-    "discount": 8,
-    "rating": 3.8,
-    "stock": 156,
-    "brand": "Schinner, Beatty and Abbott",
-    "sku": "TY9OUKJZ",
-    "images": [
-      "https://placehold.co/600x400?text=Classic+Storage+Basket"
-    ]
-  },
-  {
-    "id": 75,
-    "title": "Wireless Fitness Tracker",
-    "description": "Wireless Fitness Tracker — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "electronics",
-    "price": 946.72,
-    "discount": 39,
-    "rating": 3.9,
-    "stock": 87,
-    "brand": "Keebler Inc",
-    "sku": "9XHYMB4S",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Fitness+Tracker"
-    ]
-  },
-  {
-    "id": 76,
-    "title": "Ultra-Slim Sparkling Water Pack",
-    "description": "Ultra-Slim Sparkling Water Pack — Thoughtfully made with premium materials and attention to detail.",
-    "category": "groceries",
-    "price": 460.03,
-    "discount": 19,
-    "rating": 3,
-    "stock": 204,
-    "brand": "Wiza Ltd",
-    "sku": "ZKNGIXVE",
-    "images": [
-      "https://placehold.co/600x400?text=Ultra-Slim+Sparkling+Water+Pack"
-    ]
-  },
-  {
-    "id": 77,
-    "title": "Premium Smart Bulb",
-    "description": "Premium Smart Bulb — A customer favorite, combining great value with reliable quality.",
-    "category": "electronics",
-    "price": 298.18,
-    "discount": 39,
-    "rating": 4.5,
-    "stock": 40,
-    "brand": "Mitchell, Kunde and Becker",
-    "sku": "VSPBHISD",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Smart+Bulb"
-    ]
-  },
-  {
-    "id": 78,
-    "title": "Premium Gym Bag",
-    "description": "Premium Gym Bag — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "sports",
-    "price": 557.62,
-    "discount": 4,
-    "rating": 4.3,
-    "stock": 119,
-    "brand": "Windler, Fritsch and Becker",
-    "sku": "LR6QEHTN",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Gym+Bag"
-    ]
-  },
-  {
-    "id": 79,
-    "title": "Heavy-Duty Throw Blanket",
-    "description": "Heavy-Duty Throw Blanket — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "home",
-    "price": 494.28,
-    "discount": 14,
-    "rating": 3.1,
-    "stock": 87,
-    "brand": "Lockman, Moen and Fritsch",
-    "sku": "UJZ3IF2H",
-    "images": [
-      "https://placehold.co/600x400?text=Heavy-Duty+Throw+Blanket"
-    ]
-  },
-  {
-    "id": 80,
-    "title": "Smart Foam Roller",
-    "description": "Smart Foam Roller — Thoughtfully made with premium materials and attention to detail.",
-    "category": "sports",
-    "price": 462.85,
-    "discount": 4,
-    "rating": 3.2,
-    "stock": 43,
-    "brand": "Gleason, Christiansen and Quitzon",
-    "sku": "4PKQ3NLK",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Foam+Roller"
-    ]
-  },
-  {
-    "id": 81,
-    "title": "Wireless Cookbook",
-    "description": "Wireless Cookbook — Built to last, with a minimalist design that suits any style.",
-    "category": "books",
-    "price": 230.46,
-    "discount": 32,
-    "rating": 3.5,
-    "stock": 137,
-    "brand": "Mills LLC",
-    "sku": "9LOCH2SB",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Cookbook"
-    ]
-  },
-  {
-    "id": 82,
-    "title": "Eco-Friendly Poetry Collection",
-    "description": "Eco-Friendly Poetry Collection — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "books",
-    "price": 193.2,
-    "discount": 36,
-    "rating": 4.6,
-    "stock": 23,
-    "brand": "Erdman PLC",
-    "sku": "IY2TPUJ5",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Poetry+Collection"
-    ]
-  },
-  {
-    "id": 83,
-    "title": "Handcrafted Baseball Cap",
-    "description": "Handcrafted Baseball Cap — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "clothing",
-    "price": 386.69,
-    "discount": 6,
-    "rating": 4.9,
-    "stock": 58,
-    "brand": "Howe LLC",
-    "sku": "LHWSZREM",
-    "images": [
-      "https://placehold.co/600x400?text=Handcrafted+Baseball+Cap"
-    ]
-  },
-  {
-    "id": 84,
-    "title": "Compact Tablet Stand",
-    "description": "Compact Tablet Stand — Lightweight and travel-friendly, it fits easily in any bag.",
-    "category": "electronics",
-    "price": 964.86,
-    "discount": 6,
-    "rating": 3.2,
-    "stock": 246,
-    "brand": "Christiansen-Price",
-    "sku": "FYBYBSBW",
-    "images": [
-      "https://placehold.co/600x400?text=Compact+Tablet+Stand"
-    ]
-  },
-  {
-    "id": 85,
-    "title": "Premium Plush Bear",
-    "description": "Premium Plush Bear — A customer favorite, combining great value with reliable quality.",
-    "category": "toys",
-    "price": 97.4,
-    "discount": 38,
-    "rating": 3.4,
-    "stock": 21,
-    "brand": "Volkman, Roberts and Pacocha",
-    "sku": "M975J64O",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Plush+Bear"
-    ]
-  },
-  {
-    "id": 86,
-    "title": "Classic Tablet Stand",
-    "description": "Classic Tablet Stand — A customer favorite, combining great value with reliable quality.",
-    "category": "electronics",
-    "price": 599.89,
-    "discount": 21,
-    "rating": 4.4,
-    "stock": 186,
-    "brand": "Bauch LLC",
-    "sku": "CU7UV9GC",
-    "images": [
-      "https://placehold.co/600x400?text=Classic+Tablet+Stand"
-    ]
-  },
-  {
-    "id": 87,
-    "title": "Smart Olive Oil",
-    "description": "Smart Olive Oil — A customer favorite, combining great value with reliable quality.",
-    "category": "groceries",
-    "price": 950.91,
-    "discount": 7,
-    "rating": 2.7,
-    "stock": 221,
-    "brand": "Skiles Group",
-    "sku": "XBBTVICV",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Olive+Oil"
-    ]
-  },
-  {
-    "id": 88,
-    "title": "Premium Storage Basket",
-    "description": "Premium Storage Basket — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "home",
-    "price": 594.44,
-    "discount": 2,
-    "rating": 3.6,
-    "stock": 27,
-    "brand": "Mueller, Zemlak and Heller",
-    "sku": "BJQPRHP1",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Storage+Basket"
-    ]
-  },
-  {
-    "id": 89,
-    "title": "Premium Tennis Racket",
-    "description": "Premium Tennis Racket — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "sports",
-    "price": 190.3,
-    "discount": 26,
-    "rating": 3.3,
-    "stock": 72,
-    "brand": "Stark, Hettinger and Daugherty",
-    "sku": "4UWOYVCB",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Tennis+Racket"
-    ]
-  },
-  {
-    "id": 90,
-    "title": "Ultra-Slim Almond Butter",
-    "description": "Ultra-Slim Almond Butter — A customer favorite, combining great value with reliable quality.",
-    "category": "groceries",
-    "price": 328.36,
-    "discount": 29,
-    "rating": 3.2,
-    "stock": 30,
-    "brand": "Koch and Sons",
-    "sku": "PMXJOV2K",
-    "images": [
-      "https://placehold.co/600x400?text=Ultra-Slim+Almond+Butter"
-    ]
-  },
-  {
-    "id": 91,
-    "title": "Premium Mechanical Keyboard",
-    "description": "Premium Mechanical Keyboard — A customer favorite, combining great value with reliable quality.",
-    "category": "electronics",
-    "price": 904.37,
-    "discount": 22,
-    "rating": 3.5,
-    "stock": 57,
-    "brand": "Kub, Haley and Torp",
-    "sku": "NKZMBWWB",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Mechanical+Keyboard"
-    ]
-  },
-  {
-    "id": 92,
-    "title": "Eco-Friendly Puzzle Cube",
-    "description": "Eco-Friendly Puzzle Cube — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "toys",
-    "price": 616,
-    "discount": 36,
-    "rating": 4.9,
-    "stock": 144,
-    "brand": "Rice, Sauer and Metz",
-    "sku": "H7HFDJND",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Puzzle+Cube"
-    ]
-  },
-  {
-    "id": 93,
-    "title": "Smart Plush Bear",
-    "description": "Smart Plush Bear — Thoughtfully made with premium materials and attention to detail.",
-    "category": "toys",
-    "price": 380.67,
-    "discount": 37,
-    "rating": 3.6,
-    "stock": 27,
-    "brand": "Kreiger-Klocko",
-    "sku": "JNLDZB93",
-    "images": [
-      "https://placehold.co/600x400?text=Smart+Plush+Bear"
-    ]
-  },
-  {
-    "id": 94,
-    "title": "Eco-Friendly Jump Rope",
-    "description": "Eco-Friendly Jump Rope — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "sports",
-    "price": 321.36,
-    "discount": 39,
-    "rating": 2.5,
-    "stock": 62,
-    "brand": "Mills, Hirthe and Emmerich",
-    "sku": "FFMDQHYI",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Jump+Rope"
-    ]
-  },
-  {
-    "id": 95,
-    "title": "Premium Body Lotion",
-    "description": "Premium Body Lotion — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "beauty",
-    "price": 254.26,
-    "discount": 40,
-    "rating": 3.2,
-    "stock": 41,
-    "brand": "Douglas-Moore",
-    "sku": "W77GLL7H",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Body+Lotion"
-    ]
-  },
-  {
-    "id": 96,
-    "title": "Premium Foam Roller",
-    "description": "Premium Foam Roller — Thoughtfully made with premium materials and attention to detail.",
-    "category": "sports",
-    "price": 128.15,
-    "discount": 40,
-    "rating": 4.1,
-    "stock": 203,
-    "brand": "Torphy LLC",
-    "sku": "GZ1QJSII",
-    "images": [
-      "https://placehold.co/600x400?text=Premium+Foam+Roller"
-    ]
-  },
-  {
-    "id": 97,
-    "title": "Handcrafted Fitness Tracker",
-    "description": "Handcrafted Fitness Tracker — An ideal gift that balances practicality with a touch of luxury.",
-    "category": "electronics",
-    "price": 585.71,
-    "discount": 1,
-    "rating": 3.2,
-    "stock": 238,
-    "brand": "Denesik-Walter",
-    "sku": "UQD3XXOU",
-    "images": [
-      "https://placehold.co/600x400?text=Handcrafted+Fitness+Tracker"
-    ]
-  },
-  {
-    "id": 98,
-    "title": "Eco-Friendly Model Train",
-    "description": "Eco-Friendly Model Train — Thoughtfully made with premium materials and attention to detail.",
-    "category": "toys",
-    "price": 291.24,
-    "discount": 13,
-    "rating": 4,
-    "stock": 177,
-    "brand": "Rogahn, White and Oberbrunner",
-    "sku": "8QV735D0",
-    "images": [
-      "https://placehold.co/600x400?text=Eco-Friendly+Model+Train"
-    ]
-  },
-  {
-    "id": 99,
-    "title": "Wireless Makeup Brush Set",
-    "description": "Wireless Makeup Brush Set — Designed for everyday use with durable, easy-to-clean materials.",
-    "category": "beauty",
-    "price": 425.46,
-    "discount": 31,
-    "rating": 4.6,
-    "stock": 17,
-    "brand": "Schowalter, Ortiz and Hessel",
-    "sku": "RVJAJWOF",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Makeup+Brush+Set"
-    ]
-  },
-  {
-    "id": 100,
-    "title": "Wireless Tablet Stand",
-    "description": "Wireless Tablet Stand — Thoughtfully made with premium materials and attention to detail.",
-    "category": "electronics",
-    "price": 444.81,
-    "discount": 20,
-    "rating": 3,
-    "stock": 103,
-    "brand": "Rohan-Jast",
-    "sku": "TMOSE6VP",
-    "images": [
-      "https://placehold.co/600x400?text=Wireless+Tablet+Stand"
-    ]
-  }
-]
+  "products": [
+    {
+      "id": "1",
+      "title": "Portable Art Supplies Kit",
+      "description": "Portable Art Supplies Kit — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "toys",
+      "price": 186.88,
+      "discount": 14,
+      "rating": 4.2,
+      "stock": 149,
+      "brand": "Nienow-Hirthe",
+      "sku": "Q10PAHGJ",
+      "images": [
+        "https://placehold.co/600x400?text=Portable+Art+Supplies+Kit"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Eco-Friendly Cycling Helmet",
+      "description": "Eco-Friendly Cycling Helmet — Built to last, with a minimalist design that suits any style.",
+      "category": "sports",
+      "price": 260.65,
+      "discount": 8,
+      "rating": 2.7,
+      "stock": 139,
+      "brand": "Schuppe, Bailey and Dare",
+      "sku": "YJ6WK1VE",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Cycling+Helmet"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Compact Picture Frame",
+      "description": "Compact Picture Frame — Built to last, with a minimalist design that suits any style.",
+      "category": "home",
+      "price": 378.58,
+      "discount": 16,
+      "rating": 2.6,
+      "stock": 102,
+      "brand": "Bechtelar, Green and Labadie",
+      "sku": "PDVSCU2T",
+      "images": [
+        "https://placehold.co/600x400?text=Compact+Picture+Frame"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Eco-Friendly Smart Bulb",
+      "description": "Eco-Friendly Smart Bulb — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "electronics",
+      "price": 101.01,
+      "discount": 34,
+      "rating": 3,
+      "stock": 124,
+      "brand": "VonRueden, Stoltenberg and Greenfelder",
+      "sku": "DRXFXRS0",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Smart+Bulb"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Wireless Body Lotion",
+      "description": "Wireless Body Lotion — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "beauty",
+      "price": 703.77,
+      "discount": 5,
+      "rating": 4,
+      "stock": 207,
+      "brand": "Kulas, O'Keefe and Veum",
+      "sku": "ARTA6WDT",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Body+Lotion"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Premium Wool Scarf",
+      "description": "Premium Wool Scarf — A customer favorite, combining great value with reliable quality.",
+      "category": "clothing",
+      "price": 869.89,
+      "discount": 20,
+      "rating": 3.4,
+      "stock": 108,
+      "brand": "Considine Inc",
+      "sku": "M8MR42A5",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Wool+Scarf"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Smart Almond Butter",
+      "description": "Smart Almond Butter — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "groceries",
+      "price": 552.19,
+      "discount": 9,
+      "rating": 3,
+      "stock": 45,
+      "brand": "Murphy, Spencer and Jast",
+      "sku": "AN9RUEPR",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Almond+Butter"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Ultra-Slim Gym Bag",
+      "description": "Ultra-Slim Gym Bag — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "sports",
+      "price": 774.54,
+      "discount": 7,
+      "rating": 3.2,
+      "stock": 160,
+      "brand": "Balistreri Group",
+      "sku": "L3ZMMUH8",
+      "images": [
+        "https://placehold.co/600x400?text=Ultra-Slim+Gym+Bag"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Heavy-Duty Art Supplies Kit",
+      "description": "Heavy-Duty Art Supplies Kit — Built to last, with a minimalist design that suits any style.",
+      "category": "toys",
+      "price": 777.05,
+      "discount": 3,
+      "rating": 2.9,
+      "stock": 241,
+      "brand": "Hermiston PLC",
+      "sku": "BBP9D11A",
+      "images": [
+        "https://placehold.co/600x400?text=Heavy-Duty+Art+Supplies+Kit"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Smart Poetry Collection",
+      "description": "Smart Poetry Collection — Built to last, with a minimalist design that suits any style.",
+      "category": "books",
+      "price": 216.68,
+      "discount": 37,
+      "rating": 4.9,
+      "stock": 3,
+      "brand": "Schultz Ltd",
+      "sku": "2MRHNNTG",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Poetry+Collection"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Classic Photography Guide",
+      "description": "Classic Photography Guide — Built to last, with a minimalist design that suits any style.",
+      "category": "books",
+      "price": 675.5,
+      "discount": 14,
+      "rating": 5,
+      "stock": 137,
+      "brand": "Lehner-Abernathy",
+      "sku": "CYMQ95KU",
+      "images": [
+        "https://placehold.co/600x400?text=Classic+Photography+Guide"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Wireless Photography Guide",
+      "description": "Wireless Photography Guide — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "books",
+      "price": 287.55,
+      "discount": 8,
+      "rating": 3.7,
+      "stock": 142,
+      "brand": "Hegmann Inc",
+      "sku": "D2LTKRRE",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Photography+Guide"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Handcrafted Dark Chocolate Bar",
+      "description": "Handcrafted Dark Chocolate Bar — A customer favorite, combining great value with reliable quality.",
+      "category": "groceries",
+      "price": 742.4,
+      "discount": 9,
+      "rating": 3.3,
+      "stock": 182,
+      "brand": "McKenzie, Grimes and Kiehn",
+      "sku": "KL10EEME",
+      "images": [
+        "https://placehold.co/600x400?text=Handcrafted+Dark+Chocolate+Bar"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Premium Remote Control Car",
+      "description": "Premium Remote Control Car — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "toys",
+      "price": 339.91,
+      "discount": 6,
+      "rating": 4,
+      "stock": 173,
+      "brand": "Goldner-Buckridge",
+      "sku": "VHKBNBVF",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Remote+Control+Car"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Portable Olive Oil",
+      "description": "Portable Olive Oil — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "groceries",
+      "price": 73.73,
+      "discount": 32,
+      "rating": 3.9,
+      "stock": 67,
+      "brand": "Lowe-Davis",
+      "sku": "GYC0PRGB",
+      "images": [
+        "https://placehold.co/600x400?text=Portable+Olive+Oil"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Ultra-Slim Atlas",
+      "description": "Ultra-Slim Atlas — A customer favorite, combining great value with reliable quality.",
+      "category": "books",
+      "price": 104.88,
+      "discount": 2,
+      "rating": 2.9,
+      "stock": 173,
+      "brand": "Marvin-Kozey",
+      "sku": "QOALSXCV",
+      "images": [
+        "https://placehold.co/600x400?text=Ultra-Slim+Atlas"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Ultra-Slim Nail Care Kit",
+      "description": "Ultra-Slim Nail Care Kit — Thoughtfully made with premium materials and attention to detail.",
+      "category": "beauty",
+      "price": 129.32,
+      "discount": 28,
+      "rating": 4.4,
+      "stock": 114,
+      "brand": "Bode-Mosciski",
+      "sku": "RF6A4MMG",
+      "images": [
+        "https://placehold.co/600x400?text=Ultra-Slim+Nail+Care+Kit"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Smart Olive Oil",
+      "description": "Smart Olive Oil — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "groceries",
+      "price": 224.69,
+      "discount": 30,
+      "rating": 4.2,
+      "stock": 120,
+      "brand": "Rodriguez Group",
+      "sku": "PYEQNSYC",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Olive+Oil"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Wireless Power Bank",
+      "description": "Wireless Power Bank — Built to last, with a minimalist design that suits any style.",
+      "category": "electronics",
+      "price": 757.85,
+      "discount": 21,
+      "rating": 4.2,
+      "stock": 133,
+      "brand": "Hauck, Wilkinson and Block",
+      "sku": "GYIBSIN2",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Power+Bank"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Compact Sketchbook",
+      "description": "Compact Sketchbook — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "books",
+      "price": 46.99,
+      "discount": 12,
+      "rating": 4.7,
+      "stock": 193,
+      "brand": "Becker-Ritchie",
+      "sku": "DGASYUDD",
+      "images": [
+        "https://placehold.co/600x400?text=Compact+Sketchbook"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Premium Tablet Stand",
+      "description": "Premium Tablet Stand — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "electronics",
+      "price": 811.17,
+      "discount": 2,
+      "rating": 3.7,
+      "stock": 177,
+      "brand": "Purdy LLC",
+      "sku": "IDAV0RQJ",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Tablet+Stand"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Compact Area Rug",
+      "description": "Compact Area Rug — Thoughtfully made with premium materials and attention to detail.",
+      "category": "home",
+      "price": 191.85,
+      "discount": 34,
+      "rating": 3,
+      "stock": 148,
+      "brand": "Stamm, Gislason and Carter",
+      "sku": "UGZEKOYR",
+      "images": [
+        "https://placehold.co/600x400?text=Compact+Area+Rug"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Classic Running Shoes",
+      "description": "Classic Running Shoes — Thoughtfully made with premium materials and attention to detail.",
+      "category": "clothing",
+      "price": 152.81,
+      "discount": 23,
+      "rating": 3.7,
+      "stock": 55,
+      "brand": "White, Halvorson and Harris",
+      "sku": "3F1OTSDM",
+      "images": [
+        "https://placehold.co/600x400?text=Classic+Running+Shoes"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Classic Baseball Cap",
+      "description": "Classic Baseball Cap — A customer favorite, combining great value with reliable quality.",
+      "category": "clothing",
+      "price": 826.86,
+      "discount": 25,
+      "rating": 4.2,
+      "stock": 199,
+      "brand": "Treutel Inc",
+      "sku": "JJ8LBDSJ",
+      "images": [
+        "https://placehold.co/600x400?text=Classic+Baseball+Cap"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Eco-Friendly Poetry Collection",
+      "description": "Eco-Friendly Poetry Collection — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "books",
+      "price": 576.54,
+      "discount": 5,
+      "rating": 4.9,
+      "stock": 121,
+      "brand": "Waters-Pfannerstill",
+      "sku": "M7ZCBQZP",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Poetry+Collection"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Eco-Friendly Picture Frame",
+      "description": "Eco-Friendly Picture Frame — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "home",
+      "price": 454.18,
+      "discount": 0,
+      "rating": 2.5,
+      "stock": 96,
+      "brand": "Zulauf, Macejkovic and Zulauf",
+      "sku": "W8QKIBKW",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Picture+Frame"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Eco-Friendly Noise-Cancelling Headphones",
+      "description": "Eco-Friendly Noise-Cancelling Headphones — A customer favorite, combining great value with reliable quality.",
+      "category": "electronics",
+      "price": 753.87,
+      "discount": 1,
+      "rating": 3.1,
+      "stock": 114,
+      "brand": "Parker, Koelpin and Emard",
+      "sku": "POPWAYJ1",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Noise-Cancelling+Headphones"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Heavy-Duty Granola Mix",
+      "description": "Heavy-Duty Granola Mix — A customer favorite, combining great value with reliable quality.",
+      "category": "groceries",
+      "price": 101.72,
+      "discount": 16,
+      "rating": 2.5,
+      "stock": 54,
+      "brand": "Grant LLC",
+      "sku": "PIZWWEZB",
+      "images": [
+        "https://placehold.co/600x400?text=Heavy-Duty+Granola+Mix"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Heavy-Duty Hooded Sweatshirt",
+      "description": "Heavy-Duty Hooded Sweatshirt — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "clothing",
+      "price": 6.65,
+      "discount": 19,
+      "rating": 3.6,
+      "stock": 159,
+      "brand": "Block, Yundt and Schinner",
+      "sku": "G5YZDCXP",
+      "images": [
+        "https://placehold.co/600x400?text=Heavy-Duty+Hooded+Sweatshirt"
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Wireless Makeup Brush Set",
+      "description": "Wireless Makeup Brush Set — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "beauty",
+      "price": 598.01,
+      "discount": 10,
+      "rating": 3,
+      "stock": 122,
+      "brand": "Rice-Beatty",
+      "sku": "QNDP8XVC",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Makeup+Brush+Set"
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Portable Smart Bulb",
+      "description": "Portable Smart Bulb — Thoughtfully made with premium materials and attention to detail.",
+      "category": "electronics",
+      "price": 314.39,
+      "discount": 6,
+      "rating": 4.2,
+      "stock": 61,
+      "brand": "Keeling, Rosenbaum and Lebsack",
+      "sku": "ZTGJZVOD",
+      "images": [
+        "https://placehold.co/600x400?text=Portable+Smart+Bulb"
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Smart Almond Butter",
+      "description": "Smart Almond Butter — Thoughtfully made with premium materials and attention to detail.",
+      "category": "groceries",
+      "price": 616.4,
+      "discount": 38,
+      "rating": 3.5,
+      "stock": 87,
+      "brand": "Kshlerin-Eichmann",
+      "sku": "GMVAKWPM",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Almond+Butter"
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Portable Cookbook",
+      "description": "Portable Cookbook — A customer favorite, combining great value with reliable quality.",
+      "category": "books",
+      "price": 939.87,
+      "discount": 24,
+      "rating": 3.2,
+      "stock": 20,
+      "brand": "Walker Inc",
+      "sku": "49QQ32LS",
+      "images": [
+        "https://placehold.co/600x400?text=Portable+Cookbook"
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Handcrafted Bluetooth Speaker",
+      "description": "Handcrafted Bluetooth Speaker — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "electronics",
+      "price": 254.93,
+      "discount": 33,
+      "rating": 2.6,
+      "stock": 58,
+      "brand": "Ortiz-Ratke",
+      "sku": "AHTIPQZI",
+      "images": [
+        "https://placehold.co/600x400?text=Handcrafted+Bluetooth+Speaker"
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Handcrafted Body Lotion",
+      "description": "Handcrafted Body Lotion — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "beauty",
+      "price": 231.08,
+      "discount": 27,
+      "rating": 2.8,
+      "stock": 18,
+      "brand": "Schulist-Schuppe",
+      "sku": "ONSBHANO",
+      "images": [
+        "https://placehold.co/600x400?text=Handcrafted+Body+Lotion"
+      ]
+    },
+    {
+      "id": "36",
+      "title": "Smart Yoga Mat",
+      "description": "Smart Yoga Mat — A customer favorite, combining great value with reliable quality.",
+      "category": "sports",
+      "price": 655.29,
+      "discount": 6,
+      "rating": 3.5,
+      "stock": 44,
+      "brand": "Predovic and Sons",
+      "sku": "IPG5ZK1T",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Yoga+Mat"
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Premium Storage Basket",
+      "description": "Premium Storage Basket — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "home",
+      "price": 539.7,
+      "discount": 32,
+      "rating": 3.8,
+      "stock": 65,
+      "brand": "Feeney-Leannon",
+      "sku": "NLPR22SB",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Storage+Basket"
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Wireless Wall Clock",
+      "description": "Wireless Wall Clock — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "home",
+      "price": 258.32,
+      "discount": 20,
+      "rating": 3,
+      "stock": 16,
+      "brand": "Goyette Group",
+      "sku": "ABE11HNZ",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Wall+Clock"
+      ]
+    },
+    {
+      "id": "39",
+      "title": "Eco-Friendly Rain Jacket",
+      "description": "Eco-Friendly Rain Jacket — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "clothing",
+      "price": 699.73,
+      "discount": 38,
+      "rating": 4.3,
+      "stock": 204,
+      "brand": "Hoeger Group",
+      "sku": "U5XSRXVI",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Rain+Jacket"
+      ]
+    },
+    {
+      "id": "40",
+      "title": "Ultra-Slim Wall Clock",
+      "description": "Ultra-Slim Wall Clock — Built to last, with a minimalist design that suits any style.",
+      "category": "home",
+      "price": 828.74,
+      "discount": 7,
+      "rating": 2.6,
+      "stock": 53,
+      "brand": "Schinner Inc",
+      "sku": "GWDKRWLE",
+      "images": [
+        "https://placehold.co/600x400?text=Ultra-Slim+Wall+Clock"
+      ]
+    },
+    {
+      "id": "41",
+      "title": "Compact Puzzle Cube",
+      "description": "Compact Puzzle Cube — A customer favorite, combining great value with reliable quality.",
+      "category": "toys",
+      "price": 929.54,
+      "discount": 21,
+      "rating": 3.2,
+      "stock": 149,
+      "brand": "Okuneva, Stokes and Stamm",
+      "sku": "FXAULHHT",
+      "images": [
+        "https://placehold.co/600x400?text=Compact+Puzzle+Cube"
+      ]
+    },
+    {
+      "id": "42",
+      "title": "Compact Power Bank",
+      "description": "Compact Power Bank — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "electronics",
+      "price": 509.91,
+      "discount": 27,
+      "rating": 4,
+      "stock": 24,
+      "brand": "King PLC",
+      "sku": "QN5OHG3I",
+      "images": [
+        "https://placehold.co/600x400?text=Compact+Power+Bank"
+      ]
+    },
+    {
+      "id": "43",
+      "title": "Premium Noise-Cancelling Headphones",
+      "description": "Premium Noise-Cancelling Headphones — Thoughtfully made with premium materials and attention to detail.",
+      "category": "electronics",
+      "price": 837.75,
+      "discount": 4,
+      "rating": 4,
+      "stock": 69,
+      "brand": "Yundt Ltd",
+      "sku": "TMETGPOG",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Noise-Cancelling+Headphones"
+      ]
+    },
+    {
+      "id": "44",
+      "title": "Ultra-Slim Running Shoes",
+      "description": "Ultra-Slim Running Shoes — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "clothing",
+      "price": 747.84,
+      "discount": 23,
+      "rating": 4.4,
+      "stock": 180,
+      "brand": "Pacocha, Morissette and Braun",
+      "sku": "BSJG9GNF",
+      "images": [
+        "https://placehold.co/600x400?text=Ultra-Slim+Running+Shoes"
+      ]
+    },
+    {
+      "id": "45",
+      "title": "Premium Sparkling Water Pack",
+      "description": "Premium Sparkling Water Pack — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "groceries",
+      "price": 744.25,
+      "discount": 33,
+      "rating": 3.9,
+      "stock": 190,
+      "brand": "Stehr-McLaughlin",
+      "sku": "UJZPWPA1",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Sparkling+Water+Pack"
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Premium Yoga Mat",
+      "description": "Premium Yoga Mat — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "sports",
+      "price": 927.3,
+      "discount": 15,
+      "rating": 4.8,
+      "stock": 238,
+      "brand": "Sanford-Jast",
+      "sku": "YFXYHL4E",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Yoga+Mat"
+      ]
+    },
+    {
+      "id": "47",
+      "title": "Smart Olive Oil",
+      "description": "Smart Olive Oil — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "groceries",
+      "price": 544.14,
+      "discount": 6,
+      "rating": 4.8,
+      "stock": 217,
+      "brand": "Mante-Walter",
+      "sku": "QWFQNAWU",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Olive+Oil"
+      ]
+    },
+    {
+      "id": "48",
+      "title": "Handcrafted Atlas",
+      "description": "Handcrafted Atlas — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "books",
+      "price": 646.74,
+      "discount": 26,
+      "rating": 2.9,
+      "stock": 43,
+      "brand": "Hackett, Schoen and Kuphal",
+      "sku": "ILM3TDIS",
+      "images": [
+        "https://placehold.co/600x400?text=Handcrafted+Atlas"
+      ]
+    },
+    {
+      "id": "49",
+      "title": "Handcrafted Travel Journal",
+      "description": "Handcrafted Travel Journal — Built to last, with a minimalist design that suits any style.",
+      "category": "books",
+      "price": 702.22,
+      "discount": 15,
+      "rating": 4.9,
+      "stock": 49,
+      "brand": "Legros Inc",
+      "sku": "HNBILZOU",
+      "images": [
+        "https://placehold.co/600x400?text=Handcrafted+Travel+Journal"
+      ]
+    },
+    {
+      "id": "50",
+      "title": "Smart Storage Basket",
+      "description": "Smart Storage Basket — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "home",
+      "price": 843.45,
+      "discount": 2,
+      "rating": 3.4,
+      "stock": 244,
+      "brand": "Monahan, Johnston and Stanton",
+      "sku": "TVU30GUD",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Storage+Basket"
+      ]
+    },
+    {
+      "id": "51",
+      "title": "Wireless Baseball Cap",
+      "description": "Wireless Baseball Cap — A customer favorite, combining great value with reliable quality.",
+      "category": "clothing",
+      "price": 372.36,
+      "discount": 13,
+      "rating": 2.8,
+      "stock": 63,
+      "brand": "Zemlak, Heller and Kunze",
+      "sku": "FDMUOTQ5",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Baseball+Cap"
+      ]
+    },
+    {
+      "id": "52",
+      "title": "Ultra-Slim Denim Jacket",
+      "description": "Ultra-Slim Denim Jacket — Thoughtfully made with premium materials and attention to detail.",
+      "category": "clothing",
+      "price": 154.8,
+      "discount": 38,
+      "rating": 3.6,
+      "stock": 202,
+      "brand": "Rodriguez-Upton",
+      "sku": "G56JJSO9",
+      "images": [
+        "https://placehold.co/600x400?text=Ultra-Slim+Denim+Jacket"
+      ]
+    },
+    {
+      "id": "53",
+      "title": "Eco-Friendly Rain Jacket",
+      "description": "Eco-Friendly Rain Jacket — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "clothing",
+      "price": 641.56,
+      "discount": 2,
+      "rating": 4,
+      "stock": 102,
+      "brand": "Batz and Sons",
+      "sku": "FALKT8K2",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Rain+Jacket"
+      ]
+    },
+    {
+      "id": "54",
+      "title": "Handcrafted Smart Bulb",
+      "description": "Handcrafted Smart Bulb — A customer favorite, combining great value with reliable quality.",
+      "category": "electronics",
+      "price": 958.84,
+      "discount": 18,
+      "rating": 2.7,
+      "stock": 81,
+      "brand": "Crooks-Dietrich",
+      "sku": "OTJQLPFU",
+      "images": [
+        "https://placehold.co/600x400?text=Handcrafted+Smart+Bulb"
+      ]
+    },
+    {
+      "id": "55",
+      "title": "Smart Baseball Cap",
+      "description": "Smart Baseball Cap — Thoughtfully made with premium materials and attention to detail.",
+      "category": "clothing",
+      "price": 894.33,
+      "discount": 36,
+      "rating": 3.9,
+      "stock": 243,
+      "brand": "Jacobs, West and Bashirian",
+      "sku": "NLEZTBIE",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Baseball+Cap"
+      ]
+    },
+    {
+      "id": "56",
+      "title": "Premium Vitamin C Serum",
+      "description": "Premium Vitamin C Serum — Thoughtfully made with premium materials and attention to detail.",
+      "category": "beauty",
+      "price": 74.56,
+      "discount": 28,
+      "rating": 4.8,
+      "stock": 219,
+      "brand": "Reynolds-Langosh",
+      "sku": "2MX9G101",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Vitamin+C+Serum"
+      ]
+    },
+    {
+      "id": "57",
+      "title": "Premium Cookbook",
+      "description": "Premium Cookbook — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "books",
+      "price": 543.22,
+      "discount": 30,
+      "rating": 3.4,
+      "stock": 88,
+      "brand": "Stokes, Erdman and Weissnat",
+      "sku": "V4OAVUE9",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Cookbook"
+      ]
+    },
+    {
+      "id": "58",
+      "title": "Compact Gym Bag",
+      "description": "Compact Gym Bag — A customer favorite, combining great value with reliable quality.",
+      "category": "sports",
+      "price": 174.65,
+      "discount": 39,
+      "rating": 4.3,
+      "stock": 40,
+      "brand": "Daugherty LLC",
+      "sku": "4J6GGR5P",
+      "images": [
+        "https://placehold.co/600x400?text=Compact+Gym+Bag"
+      ]
+    },
+    {
+      "id": "59",
+      "title": "Premium Dark Chocolate Bar",
+      "description": "Premium Dark Chocolate Bar — A customer favorite, combining great value with reliable quality.",
+      "category": "groceries",
+      "price": 995.98,
+      "discount": 37,
+      "rating": 4,
+      "stock": 14,
+      "brand": "Denesik Inc",
+      "sku": "WJKVLXVH",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Dark+Chocolate+Bar"
+      ]
+    },
+    {
+      "id": "60",
+      "title": "Premium Nail Care Kit",
+      "description": "Premium Nail Care Kit — Thoughtfully made with premium materials and attention to detail.",
+      "category": "beauty",
+      "price": 19.05,
+      "discount": 8,
+      "rating": 4,
+      "stock": 94,
+      "brand": "Lang-Hudson",
+      "sku": "IYDLD9Z2",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Nail+Care+Kit"
+      ]
+    },
+    {
+      "id": "61",
+      "title": "Smart Picture Frame",
+      "description": "Smart Picture Frame — Built to last, with a minimalist design that suits any style.",
+      "category": "home",
+      "price": 153.97,
+      "discount": 6,
+      "rating": 2.9,
+      "stock": 246,
+      "brand": "Reynolds-Dach",
+      "sku": "CCJANUR0",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Picture+Frame"
+      ]
+    },
+    {
+      "id": "62",
+      "title": "Wireless Almond Butter",
+      "description": "Wireless Almond Butter — Built to last, with a minimalist design that suits any style.",
+      "category": "groceries",
+      "price": 482.57,
+      "discount": 8,
+      "rating": 3.3,
+      "stock": 0,
+      "brand": "Crona-McCullough",
+      "sku": "Q5B6D9AH",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Almond+Butter"
+      ]
+    },
+    {
+      "id": "63",
+      "title": "Ultra-Slim Hooded Sweatshirt",
+      "description": "Ultra-Slim Hooded Sweatshirt — Thoughtfully made with premium materials and attention to detail.",
+      "category": "clothing",
+      "price": 948.6,
+      "discount": 19,
+      "rating": 3.5,
+      "stock": 0,
+      "brand": "Schiller, Herzog and Armstrong",
+      "sku": "P5SPANVA",
+      "images": [
+        "https://placehold.co/600x400?text=Ultra-Slim+Hooded+Sweatshirt"
+      ]
+    },
+    {
+      "id": "64",
+      "title": "Portable Almond Butter",
+      "description": "Portable Almond Butter — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "groceries",
+      "price": 751.82,
+      "discount": 7,
+      "rating": 4.7,
+      "stock": 116,
+      "brand": "Gutmann and Sons",
+      "sku": "G2FMX0BL",
+      "images": [
+        "https://placehold.co/600x400?text=Portable+Almond+Butter"
+      ]
+    },
+    {
+      "id": "65",
+      "title": "Eco-Friendly Hair Dryer",
+      "description": "Eco-Friendly Hair Dryer — Thoughtfully made with premium materials and attention to detail.",
+      "category": "beauty",
+      "price": 153.4,
+      "discount": 2,
+      "rating": 4,
+      "stock": 162,
+      "brand": "Von-Leuschke",
+      "sku": "5RUGYDVR",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Hair+Dryer"
+      ]
+    },
+    {
+      "id": "66",
+      "title": "Portable Running Shoes",
+      "description": "Portable Running Shoes — Thoughtfully made with premium materials and attention to detail.",
+      "category": "clothing",
+      "price": 79.94,
+      "discount": 18,
+      "rating": 2.8,
+      "stock": 197,
+      "brand": "Kulas Ltd",
+      "sku": "NJKRLS0J",
+      "images": [
+        "https://placehold.co/600x400?text=Portable+Running+Shoes"
+      ]
+    },
+    {
+      "id": "67",
+      "title": "Heavy-Duty Sketchbook",
+      "description": "Heavy-Duty Sketchbook — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "books",
+      "price": 339.9,
+      "discount": 11,
+      "rating": 4.3,
+      "stock": 36,
+      "brand": "O'Kon-Erdman",
+      "sku": "S82DFSUM",
+      "images": [
+        "https://placehold.co/600x400?text=Heavy-Duty+Sketchbook"
+      ]
+    },
+    {
+      "id": "68",
+      "title": "Heavy-Duty Leather Belt",
+      "description": "Heavy-Duty Leather Belt — A customer favorite, combining great value with reliable quality.",
+      "category": "clothing",
+      "price": 376.31,
+      "discount": 5,
+      "rating": 4.6,
+      "stock": 22,
+      "brand": "Roberts Inc",
+      "sku": "OM2ZJQYT",
+      "images": [
+        "https://placehold.co/600x400?text=Heavy-Duty+Leather+Belt"
+      ]
+    },
+    {
+      "id": "69",
+      "title": "Eco-Friendly Scented Candle",
+      "description": "Eco-Friendly Scented Candle — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "home",
+      "price": 715.77,
+      "discount": 15,
+      "rating": 2.9,
+      "stock": 41,
+      "brand": "Buckridge, Ankunding and Tremblay",
+      "sku": "R4GQQU3P",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Scented+Candle"
+      ]
+    },
+    {
+      "id": "70",
+      "title": "Eco-Friendly Power Bank",
+      "description": "Eco-Friendly Power Bank — A customer favorite, combining great value with reliable quality.",
+      "category": "electronics",
+      "price": 825.8,
+      "discount": 39,
+      "rating": 3.4,
+      "stock": 57,
+      "brand": "Abernathy PLC",
+      "sku": "KB0IHJZI",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Power+Bank"
+      ]
+    },
+    {
+      "id": "71",
+      "title": "Heavy-Duty Travel Journal",
+      "description": "Heavy-Duty Travel Journal — Built to last, with a minimalist design that suits any style.",
+      "category": "books",
+      "price": 91.28,
+      "discount": 10,
+      "rating": 4,
+      "stock": 32,
+      "brand": "Hegmann-Botsford",
+      "sku": "5L1TRDVW",
+      "images": [
+        "https://placehold.co/600x400?text=Heavy-Duty+Travel+Journal"
+      ]
+    },
+    {
+      "id": "72",
+      "title": "Smart Model Train",
+      "description": "Smart Model Train — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "toys",
+      "price": 526.25,
+      "discount": 10,
+      "rating": 3.7,
+      "stock": 39,
+      "brand": "Toy Inc",
+      "sku": "Y7GPKBZA",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Model+Train"
+      ]
+    },
+    {
+      "id": "73",
+      "title": "Wireless Tennis Racket",
+      "description": "Wireless Tennis Racket — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "sports",
+      "price": 363.18,
+      "discount": 29,
+      "rating": 2.7,
+      "stock": 241,
+      "brand": "Hand-Grimes",
+      "sku": "2DETJFTG",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Tennis+Racket"
+      ]
+    },
+    {
+      "id": "74",
+      "title": "Classic Storage Basket",
+      "description": "Classic Storage Basket — Built to last, with a minimalist design that suits any style.",
+      "category": "home",
+      "price": 867.34,
+      "discount": 8,
+      "rating": 3.8,
+      "stock": 156,
+      "brand": "Schinner, Beatty and Abbott",
+      "sku": "TY9OUKJZ",
+      "images": [
+        "https://placehold.co/600x400?text=Classic+Storage+Basket"
+      ]
+    },
+    {
+      "id": "75",
+      "title": "Wireless Fitness Tracker",
+      "description": "Wireless Fitness Tracker — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "electronics",
+      "price": 946.72,
+      "discount": 39,
+      "rating": 3.9,
+      "stock": 87,
+      "brand": "Keebler Inc",
+      "sku": "9XHYMB4S",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Fitness+Tracker"
+      ]
+    },
+    {
+      "id": "76",
+      "title": "Ultra-Slim Sparkling Water Pack",
+      "description": "Ultra-Slim Sparkling Water Pack — Thoughtfully made with premium materials and attention to detail.",
+      "category": "groceries",
+      "price": 460.03,
+      "discount": 19,
+      "rating": 3,
+      "stock": 204,
+      "brand": "Wiza Ltd",
+      "sku": "ZKNGIXVE",
+      "images": [
+        "https://placehold.co/600x400?text=Ultra-Slim+Sparkling+Water+Pack"
+      ]
+    },
+    {
+      "id": "77",
+      "title": "Premium Smart Bulb",
+      "description": "Premium Smart Bulb — A customer favorite, combining great value with reliable quality.",
+      "category": "electronics",
+      "price": 298.18,
+      "discount": 39,
+      "rating": 4.5,
+      "stock": 40,
+      "brand": "Mitchell, Kunde and Becker",
+      "sku": "VSPBHISD",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Smart+Bulb"
+      ]
+    },
+    {
+      "id": "78",
+      "title": "Premium Gym Bag",
+      "description": "Premium Gym Bag — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "sports",
+      "price": 557.62,
+      "discount": 4,
+      "rating": 4.3,
+      "stock": 119,
+      "brand": "Windler, Fritsch and Becker",
+      "sku": "LR6QEHTN",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Gym+Bag"
+      ]
+    },
+    {
+      "id": "79",
+      "title": "Heavy-Duty Throw Blanket",
+      "description": "Heavy-Duty Throw Blanket — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "home",
+      "price": 494.28,
+      "discount": 14,
+      "rating": 3.1,
+      "stock": 87,
+      "brand": "Lockman, Moen and Fritsch",
+      "sku": "UJZ3IF2H",
+      "images": [
+        "https://placehold.co/600x400?text=Heavy-Duty+Throw+Blanket"
+      ]
+    },
+    {
+      "id": "80",
+      "title": "Smart Foam Roller",
+      "description": "Smart Foam Roller — Thoughtfully made with premium materials and attention to detail.",
+      "category": "sports",
+      "price": 462.85,
+      "discount": 4,
+      "rating": 3.2,
+      "stock": 43,
+      "brand": "Gleason, Christiansen and Quitzon",
+      "sku": "4PKQ3NLK",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Foam+Roller"
+      ]
+    },
+    {
+      "id": "81",
+      "title": "Wireless Cookbook",
+      "description": "Wireless Cookbook — Built to last, with a minimalist design that suits any style.",
+      "category": "books",
+      "price": 230.46,
+      "discount": 32,
+      "rating": 3.5,
+      "stock": 137,
+      "brand": "Mills LLC",
+      "sku": "9LOCH2SB",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Cookbook"
+      ]
+    },
+    {
+      "id": "82",
+      "title": "Eco-Friendly Poetry Collection",
+      "description": "Eco-Friendly Poetry Collection — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "books",
+      "price": 193.2,
+      "discount": 36,
+      "rating": 4.6,
+      "stock": 23,
+      "brand": "Erdman PLC",
+      "sku": "IY2TPUJ5",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Poetry+Collection"
+      ]
+    },
+    {
+      "id": "83",
+      "title": "Handcrafted Baseball Cap",
+      "description": "Handcrafted Baseball Cap — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "clothing",
+      "price": 386.69,
+      "discount": 6,
+      "rating": 4.9,
+      "stock": 58,
+      "brand": "Howe LLC",
+      "sku": "LHWSZREM",
+      "images": [
+        "https://placehold.co/600x400?text=Handcrafted+Baseball+Cap"
+      ]
+    },
+    {
+      "id": "84",
+      "title": "Compact Tablet Stand",
+      "description": "Compact Tablet Stand — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "electronics",
+      "price": 964.86,
+      "discount": 6,
+      "rating": 3.2,
+      "stock": 246,
+      "brand": "Christiansen-Price",
+      "sku": "FYBYBSBW",
+      "images": [
+        "https://placehold.co/600x400?text=Compact+Tablet+Stand"
+      ]
+    },
+    {
+      "id": "85",
+      "title": "Premium Plush Bear",
+      "description": "Premium Plush Bear — A customer favorite, combining great value with reliable quality.",
+      "category": "toys",
+      "price": 97.4,
+      "discount": 38,
+      "rating": 3.4,
+      "stock": 21,
+      "brand": "Volkman, Roberts and Pacocha",
+      "sku": "M975J64O",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Plush+Bear"
+      ]
+    },
+    {
+      "id": "86",
+      "title": "Classic Tablet Stand",
+      "description": "Classic Tablet Stand — A customer favorite, combining great value with reliable quality.",
+      "category": "electronics",
+      "price": 599.89,
+      "discount": 21,
+      "rating": 4.4,
+      "stock": 186,
+      "brand": "Bauch LLC",
+      "sku": "CU7UV9GC",
+      "images": [
+        "https://placehold.co/600x400?text=Classic+Tablet+Stand"
+      ]
+    },
+    {
+      "id": "87",
+      "title": "Smart Olive Oil",
+      "description": "Smart Olive Oil — A customer favorite, combining great value with reliable quality.",
+      "category": "groceries",
+      "price": 950.91,
+      "discount": 7,
+      "rating": 2.7,
+      "stock": 221,
+      "brand": "Skiles Group",
+      "sku": "XBBTVICV",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Olive+Oil"
+      ]
+    },
+    {
+      "id": "88",
+      "title": "Premium Storage Basket",
+      "description": "Premium Storage Basket — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "home",
+      "price": 594.44,
+      "discount": 2,
+      "rating": 3.6,
+      "stock": 27,
+      "brand": "Mueller, Zemlak and Heller",
+      "sku": "BJQPRHP1",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Storage+Basket"
+      ]
+    },
+    {
+      "id": "89",
+      "title": "Premium Tennis Racket",
+      "description": "Premium Tennis Racket — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "sports",
+      "price": 190.3,
+      "discount": 26,
+      "rating": 3.3,
+      "stock": 72,
+      "brand": "Stark, Hettinger and Daugherty",
+      "sku": "4UWOYVCB",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Tennis+Racket"
+      ]
+    },
+    {
+      "id": "90",
+      "title": "Ultra-Slim Almond Butter",
+      "description": "Ultra-Slim Almond Butter — A customer favorite, combining great value with reliable quality.",
+      "category": "groceries",
+      "price": 328.36,
+      "discount": 29,
+      "rating": 3.2,
+      "stock": 30,
+      "brand": "Koch and Sons",
+      "sku": "PMXJOV2K",
+      "images": [
+        "https://placehold.co/600x400?text=Ultra-Slim+Almond+Butter"
+      ]
+    },
+    {
+      "id": "91",
+      "title": "Premium Mechanical Keyboard",
+      "description": "Premium Mechanical Keyboard — A customer favorite, combining great value with reliable quality.",
+      "category": "electronics",
+      "price": 904.37,
+      "discount": 22,
+      "rating": 3.5,
+      "stock": 57,
+      "brand": "Kub, Haley and Torp",
+      "sku": "NKZMBWWB",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Mechanical+Keyboard"
+      ]
+    },
+    {
+      "id": "92",
+      "title": "Eco-Friendly Puzzle Cube",
+      "description": "Eco-Friendly Puzzle Cube — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "toys",
+      "price": 616,
+      "discount": 36,
+      "rating": 4.9,
+      "stock": 144,
+      "brand": "Rice, Sauer and Metz",
+      "sku": "H7HFDJND",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Puzzle+Cube"
+      ]
+    },
+    {
+      "id": "93",
+      "title": "Smart Plush Bear",
+      "description": "Smart Plush Bear — Thoughtfully made with premium materials and attention to detail.",
+      "category": "toys",
+      "price": 380.67,
+      "discount": 37,
+      "rating": 3.6,
+      "stock": 27,
+      "brand": "Kreiger-Klocko",
+      "sku": "JNLDZB93",
+      "images": [
+        "https://placehold.co/600x400?text=Smart+Plush+Bear"
+      ]
+    },
+    {
+      "id": "94",
+      "title": "Eco-Friendly Jump Rope",
+      "description": "Eco-Friendly Jump Rope — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "sports",
+      "price": 321.36,
+      "discount": 39,
+      "rating": 2.5,
+      "stock": 62,
+      "brand": "Mills, Hirthe and Emmerich",
+      "sku": "FFMDQHYI",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Jump+Rope"
+      ]
+    },
+    {
+      "id": "95",
+      "title": "Premium Body Lotion",
+      "description": "Premium Body Lotion — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "beauty",
+      "price": 254.26,
+      "discount": 40,
+      "rating": 3.2,
+      "stock": 41,
+      "brand": "Douglas-Moore",
+      "sku": "W77GLL7H",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Body+Lotion"
+      ]
+    },
+    {
+      "id": "96",
+      "title": "Premium Foam Roller",
+      "description": "Premium Foam Roller — Thoughtfully made with premium materials and attention to detail.",
+      "category": "sports",
+      "price": 128.15,
+      "discount": 40,
+      "rating": 4.1,
+      "stock": 203,
+      "brand": "Torphy LLC",
+      "sku": "GZ1QJSII",
+      "images": [
+        "https://placehold.co/600x400?text=Premium+Foam+Roller"
+      ]
+    },
+    {
+      "id": "97",
+      "title": "Handcrafted Fitness Tracker",
+      "description": "Handcrafted Fitness Tracker — An ideal gift that balances practicality with a touch of luxury.",
+      "category": "electronics",
+      "price": 585.71,
+      "discount": 1,
+      "rating": 3.2,
+      "stock": 238,
+      "brand": "Denesik-Walter",
+      "sku": "UQD3XXOU",
+      "images": [
+        "https://placehold.co/600x400?text=Handcrafted+Fitness+Tracker"
+      ]
+    },
+    {
+      "id": "98",
+      "title": "Eco-Friendly Model Train",
+      "description": "Eco-Friendly Model Train — Thoughtfully made with premium materials and attention to detail.",
+      "category": "toys",
+      "price": 291.24,
+      "discount": 13,
+      "rating": 4,
+      "stock": 177,
+      "brand": "Rogahn, White and Oberbrunner",
+      "sku": "8QV735D0",
+      "images": [
+        "https://placehold.co/600x400?text=Eco-Friendly+Model+Train"
+      ]
+    },
+    {
+      "id": "99",
+      "title": "Wireless Makeup Brush Set",
+      "description": "Wireless Makeup Brush Set — Designed for everyday use with durable, easy-to-clean materials.",
+      "category": "beauty",
+      "price": 425.46,
+      "discount": 31,
+      "rating": 4.6,
+      "stock": 17,
+      "brand": "Schowalter, Ortiz and Hessel",
+      "sku": "RVJAJWOF",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Makeup+Brush+Set"
+      ]
+    },
+    {
+      "id": "100",
+      "title": "Wireless Tablet Stand",
+      "description": "Wireless Tablet Stand — Thoughtfully made with premium materials and attention to detail.",
+      "category": "electronics",
+      "price": 444.81,
+      "discount": 20,
+      "rating": 3,
+      "stock": 103,
+      "brand": "Rohan-Jast",
+      "sku": "TMOSE6VP",
+      "images": [
+        "https://placehold.co/600x400?text=Wireless+Tablet+Stand"
+      ]
+    },
+    {
+      "title": " samsung 7",
+      "description": "Portable Art Supplies Kit — Lightweight and travel-friendly, it fits easily in any bag.",
+      "category": "mobile",
+      "price": 500,
+      "discount": 14,
+      "rating": {
+        "rate": "4",
+        "count": "5"
+      },
+      "stock": 149,
+      "brand": "Nienow-Hirthe",
+      "sku": "Q10PAHGJ",
+      "images": "https://placehold.co/600x400?text=Portable+Art+Supplies+Kit",
+      "id": "7_1zLw_JnjU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

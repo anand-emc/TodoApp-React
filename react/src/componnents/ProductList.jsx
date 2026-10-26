@@ -10,7 +10,7 @@ const ProductList = () => {
     data: products,
     error,
     loading: isLoading
-  } = useFetch('https://fakestoreapi.com/products');
+  } = useFetch('http://localhost:4000/products');
 
   if (isLoading) {
     return (
